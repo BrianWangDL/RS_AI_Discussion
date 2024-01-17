@@ -13,6 +13,8 @@
 [Paper](https://ieeexplore.ieee.org/abstract/document/9355573) |  [Github Code](https://github.com/likyoo/Siam-NestedUNet) 
 
 ### 语义分割
+#### 📘Swin Transformer Embedding UNet for Remote Sensing Image Semantic Segmentation[<em> IEEE Transactions on Geoscience and Remote Sensing</em> (2022)]
+
 
 ### 变化检测
 #### 📘Remote Sensing Image Change Detection With Transformers[<em> IEEE Transactions on Geoscience and Remote Sensing</em>(2021)]
